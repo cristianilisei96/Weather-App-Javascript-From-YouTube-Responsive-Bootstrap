@@ -1,5 +1,4 @@
 // Tutorial by YouTube
-// api key : 32fe70ffa999b595b72e3eddcd8d1220
 
 //SELECT ELEMENTS
 const iconElement = document.querySelector(".weather-icon");
